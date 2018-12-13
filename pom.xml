@@ -6,14 +6,7 @@
 	<artifactId>maven-stanalone-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-        <plugin>
-    <groupId>org.apache.maven.plugins</groupId>
-    <artifactId>maven-compiler-plugin</artifactId>
-    <version>3.6.1</version>
-    <configuration>
-      <compilerVersion>1.8</compilerVersion>
-    </configuration>
-  </plugin>
+     
 	<name>maven-stanalone-application</name>
 	<url>http://mithuntechnologies.com</url>
 
